@@ -1,0 +1,4032 @@
+[
+    {
+        "id": "Q11036",
+        "name": "The Rolling Stones",
+        "members": [
+            {
+                "id": "Q463695",
+                "name": "Darryl Jones"
+            },
+            {
+                "id": "Q7332067",
+                "name": "Ricky Fenson"
+            },
+            {
+                "id": "Q216051",
+                "name": "Charlie Watts"
+            },
+            {
+                "id": "Q319737",
+                "name": "Ian Stewart"
+            },
+            {
+                "id": "Q312559",
+                "name": "Bill Wyman"
+            },
+            {
+                "id": "Q211094",
+                "name": "Ronnie Wood"
+            },
+            {
+                "id": "Q204943",
+                "name": "Brian Jones"
+            },
+            {
+                "id": "Q189599",
+                "name": "Keith Richards"
+            },
+            {
+                "id": "Q109801641",
+                "name": "Colin Golding"
+            },
+            {
+                "id": "Q128121",
+                "name": "Mick Jagger"
+            },
+            {
+                "id": "Q3497477",
+                "name": "Carlo Little"
+            },
+            {
+                "id": "Q923999",
+                "name": "Dick Taylor"
+            },
+            {
+                "id": "Q312696",
+                "name": "Mick Taylor"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1962",
+            "name": "1962",
+            "value": "1962"
+        },
+        "genres": [
+            {
+                "id": "Q206159",
+                "name": "psychedelic rock"
+            },
+            {
+                "id": "Q45981",
+                "name": "rhythm and blues"
+            },
+            {
+                "id": "Q56351111",
+                "name": "classic rock"
+            },
+            {
+                "id": "Q193355",
+                "name": "blues rock"
+            },
+            {
+                "id": "Q11399",
+                "name": "rock music"
+            },
+            {
+                "id": "Q9759",
+                "name": "blues"
+            },
+            {
+                "id": "Q7749",
+                "name": "rock and roll"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q122066904",
+                "name": "Hackney Diamonds",
+                "year": {
+                    "id": "dt_2023",
+                    "name": "2023",
+                    "value": "2023"
+                }
+            },
+            {
+                "id": "Q123142739",
+                "name": "Bite My Head Off",
+                "year": {
+                    "id": "dt_2023",
+                    "name": "2023",
+                    "value": "2023"
+                }
+            },
+            {
+                "id": "Q124060444",
+                "name": "Mess It Up",
+                "year": {
+                    "id": "dt_2023",
+                    "name": "2023",
+                    "value": "2023"
+                }
+            },
+            {
+                "id": "Q122891345",
+                "name": "Sweet Sounds of Heaven",
+                "year": {
+                    "id": "dt_2023",
+                    "name": "2023",
+                    "value": "2023"
+                }
+            },
+            {
+                "id": "Q122285084",
+                "name": "Angry",
+                "year": {
+                    "id": "dt_2023",
+                    "name": "2023",
+                    "value": "2023"
+                }
+            },
+            {
+                "id": "Q104860289",
+                "name": "Steel Wheels Live",
+                "year": {
+                    "id": "dt_2020",
+                    "name": "2020",
+                    "value": "2020"
+                }
+            },
+            {
+                "id": "Q91788283",
+                "name": "Living in a Ghost Town",
+                "year": {
+                    "id": "dt_2020",
+                    "name": "2020",
+                    "value": "2020"
+                }
+            },
+            {
+                "id": "Q63981411",
+                "name": "Honk",
+                "year": {
+                    "id": "dt_2019",
+                    "name": "2019",
+                    "value": "2019"
+                }
+            },
+            {
+                "id": "Q125961500",
+                "name": "Street Fighting Man (Official Lyric Video)",
+                "year": {
+                    "id": "dt_2018",
+                    "name": "2018",
+                    "value": "2018"
+                }
+            },
+            {
+                "id": "Q16960208",
+                "name": "On Air",
+                "year": {
+                    "id": "dt_2017",
+                    "name": "2017",
+                    "value": "2017"
+                }
+            },
+            {
+                "id": "Q27117440",
+                "name": "Blue & Lonesome",
+                "year": {
+                    "id": "dt_2016",
+                    "name": "2016",
+                    "value": "2016"
+                }
+            },
+            {
+                "id": "Q28127785",
+                "name": "The Rolling Stones in Mono",
+                "year": {
+                    "id": "dt_2016",
+                    "name": "2016",
+                    "value": "2016"
+                }
+            },
+            {
+                "id": "Q65720230",
+                "name": "Marquee Club (Live 1971)",
+                "year": {
+                    "id": "dt_2015",
+                    "name": "2015",
+                    "value": "2015"
+                }
+            },
+            {
+                "id": "Q103447038",
+                "name": "Sweet Summer Sun: Hyde Park Live",
+                "year": {
+                    "id": "dt_2014",
+                    "name": "2014",
+                    "value": "2014"
+                }
+            },
+            {
+                "id": "Q14324029",
+                "name": "Hyde Park Live",
+                "year": {
+                    "id": "dt_2013",
+                    "name": "2013",
+                    "value": "2013"
+                }
+            },
+            {
+                "id": "Q31665",
+                "name": "GRRR!",
+                "year": {
+                    "id": "dt_2012",
+                    "name": "2012",
+                    "value": "2012"
+                }
+            },
+            {
+                "id": "Q1151601",
+                "name": "One More Shot",
+                "year": {
+                    "id": "dt_2012",
+                    "name": "2012",
+                    "value": "2012"
+                }
+            },
+            {
+                "id": "Q1097089",
+                "name": "Doom and Gloom",
+                "year": {
+                    "id": "dt_2012",
+                    "name": "2012",
+                    "value": "2012"
+                }
+            },
+            {
+                "id": "Q3493883",
+                "name": "Hampton Coliseum (Live 1981)",
+                "year": {
+                    "id": "dt_2012",
+                    "name": "2012",
+                    "value": "2012"
+                }
+            },
+            {
+                "id": "Q6456211",
+                "name": "L.A. Friday",
+                "year": {
+                    "id": "dt_2012",
+                    "name": "2012",
+                    "value": "2012"
+                }
+            },
+            {
+                "id": "Q6546236",
+                "name": "Light the Fuse",
+                "year": {
+                    "id": "dt_2012",
+                    "name": "2012",
+                    "value": "2012"
+                }
+            },
+            {
+                "id": "Q6657029",
+                "name": "Live at the Tokyo Dome",
+                "year": {
+                    "id": "dt_2012",
+                    "name": "2012",
+                    "value": "2012"
+                }
+            },
+            {
+                "id": "Q609710",
+                "name": "Live at Leeds",
+                "year": {
+                    "id": "dt_2012",
+                    "name": "2012",
+                    "value": "2012"
+                }
+            },
+            {
+                "id": "Q2886959",
+                "name": "Live at the Checkerboard Lounge, Chicago 1981",
+                "year": {
+                    "id": "dt_2012",
+                    "name": "2012",
+                    "value": "2012"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q112148502",
+        "name": "Acker Bilk and His Paramount Jazz Band",
+        "members": [],
+        "est_year": null,
+        "genres": [],
+        "albums": [
+            {
+                "id": "Q7716884",
+                "name": "The Best of Ball, Barber & Bilk",
+                "year": {
+                    "id": "dt_1962",
+                    "name": "1962",
+                    "value": "1962"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q121557449",
+        "name": "Ken Colyer's Jazzmen",
+        "members": [
+            {
+                "id": "Q1231808",
+                "name": "Diz Disley"
+            },
+            {
+                "id": "Q1631115",
+                "name": "Stan Greig"
+            },
+            {
+                "id": "Q1738588",
+                "name": "Ken Colyer"
+            },
+            {
+                "id": "Q45610",
+                "name": "Acker Bilk"
+            }
+        ],
+        "est_year": null,
+        "genres": [
+            {
+                "id": "Q8341",
+                "name": "jazz"
+            }
+        ],
+        "albums": []
+    },
+    {
+        "id": "Q125603",
+        "name": "The Clash",
+        "members": [
+            {
+                "id": "Q357310",
+                "name": "Mick Jones"
+            },
+            {
+                "id": "Q540440",
+                "name": "Topper Headon"
+            },
+            {
+                "id": "Q466088",
+                "name": "Terry Chimes"
+            },
+            {
+                "id": "Q1389464",
+                "name": "Keith Levene"
+            },
+            {
+                "id": "Q310052",
+                "name": "Joe Strummer"
+            },
+            {
+                "id": "Q449804",
+                "name": "Paul Simonon"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1976",
+            "name": "1976",
+            "value": "1976"
+        },
+        "genres": [
+            {
+                "id": "Q598929",
+                "name": "post-punk"
+            },
+            {
+                "id": "Q54365",
+                "name": "ska"
+            },
+            {
+                "id": "Q3071",
+                "name": "punk rock"
+            },
+            {
+                "id": "Q9794",
+                "name": "reggae"
+            },
+            {
+                "id": "Q187760",
+                "name": "new wave"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q17048746",
+                "name": "Sound System",
+                "year": {
+                    "id": "dt_2013",
+                    "name": "2013",
+                    "value": "2013"
+                }
+            },
+            {
+                "id": "Q16155851",
+                "name": "5 Album Studio Set",
+                "year": {
+                    "id": "dt_2013",
+                    "name": "2013",
+                    "value": "2013"
+                }
+            },
+            {
+                "id": "Q16246054",
+                "name": "The Clash Hits Back",
+                "year": {
+                    "id": "dt_2013",
+                    "name": "2013",
+                    "value": "2013"
+                }
+            },
+            {
+                "id": "Q2483610",
+                "name": "Live at Shea Stadium",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q3989308",
+                "name": "The Singles",
+                "year": {
+                    "id": "dt_2007",
+                    "name": "2007",
+                    "value": "2007"
+                }
+            },
+            {
+                "id": "Q2259804",
+                "name": "The Singles",
+                "year": {
+                    "id": "dt_2006",
+                    "name": "2006",
+                    "value": "2006"
+                }
+            },
+            {
+                "id": "Q6154394",
+                "name": "Janie Jones",
+                "year": {
+                    "id": "dt_2006",
+                    "name": "2006",
+                    "value": "2006"
+                }
+            },
+            {
+                "id": "Q3836571",
+                "name": "London Calling: 25th Anniversary Edition",
+                "year": {
+                    "id": "dt_2004",
+                    "name": "2004",
+                    "value": "2004"
+                }
+            },
+            {
+                "id": "Q9358297",
+                "name": "The Vanilla Tapes",
+                "year": {
+                    "id": "dt_2004",
+                    "name": "2004",
+                    "value": "2004"
+                }
+            },
+            {
+                "id": "Q2478684",
+                "name": "The Essential Clash",
+                "year": {
+                    "id": "dt_2003",
+                    "name": "2003",
+                    "value": "2003"
+                }
+            },
+            {
+                "id": "Q3986818",
+                "name": "The Essential Clash",
+                "year": {
+                    "id": "dt_2003",
+                    "name": "2003",
+                    "value": "2003"
+                }
+            },
+            {
+                "id": "Q3939764",
+                "name": "Rockers Galore",
+                "year": {
+                    "id": "dt_2000",
+                    "name": "2000",
+                    "value": "2000"
+                }
+            },
+            {
+                "id": "Q3986307",
+                "name": "The Clash at Bond's Casino",
+                "year": {
+                    "id": "dt_2000",
+                    "name": "2000",
+                    "value": "2000"
+                }
+            },
+            {
+                "id": "Q2631889",
+                "name": "From Here to Eternity: Live",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q2637270",
+                "name": "Super Black Market Clash",
+                "year": {
+                    "id": "dt_1993",
+                    "name": "1993",
+                    "value": "1993"
+                }
+            },
+            {
+                "id": "Q2629843",
+                "name": "The Singles",
+                "year": {
+                    "id": "dt_1991",
+                    "name": "1991",
+                    "value": "1991"
+                }
+            },
+            {
+                "id": "Q608025",
+                "name": "Clash on Broadway",
+                "year": {
+                    "id": "dt_1991",
+                    "name": "1991",
+                    "value": "1991"
+                }
+            },
+            {
+                "id": "Q95149367",
+                "name": "Return to Brixton",
+                "year": {
+                    "id": "dt_1990",
+                    "name": "1990",
+                    "value": "1990"
+                }
+            },
+            {
+                "id": "Q4577783",
+                "name": "1977 Revisited",
+                "year": {
+                    "id": "dt_1990",
+                    "name": "1990",
+                    "value": "1990"
+                }
+            },
+            {
+                "id": "Q2707525",
+                "name": "The Story of the Clash, Volume 1",
+                "year": {
+                    "id": "dt_1988",
+                    "name": "1988",
+                    "value": "1988"
+                }
+            },
+            {
+                "id": "Q1146382",
+                "name": "Cut the Crap",
+                "year": {
+                    "id": "dt_1985",
+                    "name": "1985",
+                    "value": "1985"
+                }
+            },
+            {
+                "id": "Q920962",
+                "name": "This Is England",
+                "year": {
+                    "id": "dt_1985",
+                    "name": "1985",
+                    "value": "1985"
+                }
+            },
+            {
+                "id": "Q69089615",
+                "name": "Should I Stay Or Should I Go? / Cool Confusion",
+                "year": {
+                    "id": "dt_1983",
+                    "name": "1983",
+                    "value": "1983"
+                }
+            },
+            {
+                "id": "Q69088423",
+                "name": "Should I Stay Or Should I Go? / Cool Confusion",
+                "year": {
+                    "id": "dt_1983",
+                    "name": "1983",
+                    "value": "1983"
+                }
+            },
+            {
+                "id": "Q2400710",
+                "name": "Straight to Hell",
+                "year": {
+                    "id": "dt_1982",
+                    "name": "1982",
+                    "value": "1982"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q1299",
+        "name": "The Beatles",
+        "members": [
+            {
+                "id": "Q2643",
+                "name": "George Harrison"
+            },
+            {
+                "id": "Q2599",
+                "name": "Paul McCartney"
+            },
+            {
+                "id": "Q1203",
+                "name": "John Lennon"
+            },
+            {
+                "id": "Q2632",
+                "name": "Ringo Starr"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1960",
+            "name": "1960",
+            "value": "1960"
+        },
+        "genres": [
+            {
+                "id": "Q186472",
+                "name": "folk rock"
+            },
+            {
+                "id": "Q83270",
+                "name": "hard rock"
+            },
+            {
+                "id": "Q7749",
+                "name": "rock and roll"
+            },
+            {
+                "id": "Q235858",
+                "name": "traditional folk music"
+            },
+            {
+                "id": "Q56351111",
+                "name": "classic rock"
+            },
+            {
+                "id": "Q206159",
+                "name": "psychedelic rock"
+            },
+            {
+                "id": "Q37073",
+                "name": "pop music"
+            },
+            {
+                "id": "Q193355",
+                "name": "blues rock"
+            },
+            {
+                "id": "Q11399",
+                "name": "rock music"
+            },
+            {
+                "id": "Q1641839",
+                "name": "experimental rock"
+            },
+            {
+                "id": "Q546264",
+                "name": "beat music"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q135925554",
+                "name": "Anthology 4",
+                "year": {
+                    "id": "dt_2025",
+                    "name": "2025",
+                    "value": "2025"
+                }
+            },
+            {
+                "id": "Q136005138",
+                "name": "Beatles '64 (Music from the Disney+ Documentary)",
+                "year": {
+                    "id": "dt_2024",
+                    "name": "2024",
+                    "value": "2024"
+                }
+            },
+            {
+                "id": "Q131406157",
+                "name": "1964 US Albums in Mono",
+                "year": {
+                    "id": "dt_2024",
+                    "name": "2024",
+                    "value": "2024"
+                }
+            },
+            {
+                "id": "Q3293037",
+                "name": "Now and Then",
+                "year": {
+                    "id": "dt_2023",
+                    "name": "2023",
+                    "value": "2023"
+                }
+            },
+            {
+                "id": "Q120121776",
+                "name": "I'm Only Sleeping",
+                "year": {
+                    "id": "dt_2022",
+                    "name": "2022",
+                    "value": "2022"
+                }
+            },
+            {
+                "id": "Q11349248",
+                "name": "The Beatles' rooftop concert",
+                "year": {
+                    "id": "dt_2022",
+                    "name": "2022",
+                    "value": "2022"
+                }
+            },
+            {
+                "id": "Q105976227",
+                "name": "Inspirations",
+                "year": {
+                    "id": "dt_2021",
+                    "name": "2021",
+                    "value": "2021"
+                }
+            },
+            {
+                "id": "Q105582977",
+                "name": "The Beatles for Kids - Animals",
+                "year": {
+                    "id": "dt_2021",
+                    "name": "2021",
+                    "value": "2021"
+                }
+            },
+            {
+                "id": "Q105501512",
+                "name": "Love Me Do",
+                "year": {
+                    "id": "dt_2021",
+                    "name": "2021",
+                    "value": "2021"
+                }
+            },
+            {
+                "id": "Q105315232",
+                "name": "All About the Girl",
+                "year": {
+                    "id": "dt_2021",
+                    "name": "2021",
+                    "value": "2021"
+                }
+            },
+            {
+                "id": "Q105106953",
+                "name": "The Beatles for Kids - Colours",
+                "year": {
+                    "id": "dt_2021",
+                    "name": "2021",
+                    "value": "2021"
+                }
+            },
+            {
+                "id": "Q104999712",
+                "name": "New Year's Workout",
+                "year": {
+                    "id": "dt_2021",
+                    "name": "2021",
+                    "value": "2021"
+                }
+            },
+            {
+                "id": "Q104813205",
+                "name": "We Can Work It Out",
+                "year": {
+                    "id": "dt_2021",
+                    "name": "2021",
+                    "value": "2021"
+                }
+            },
+            {
+                "id": "Q104605955",
+                "name": "Getting Better All the Time",
+                "year": {
+                    "id": "dt_2021",
+                    "name": "2021",
+                    "value": "2021"
+                }
+            },
+            {
+                "id": "Q104605954",
+                "name": "At Home with The Beatles",
+                "year": {
+                    "id": "dt_2020",
+                    "name": "2020",
+                    "value": "2020"
+                }
+            },
+            {
+                "id": "Q104605953",
+                "name": "Study Songs Vol. 2",
+                "year": {
+                    "id": "dt_2020",
+                    "name": "2020",
+                    "value": "2020"
+                }
+            },
+            {
+                "id": "Q104605952",
+                "name": "Study Songs Vol. 1",
+                "year": {
+                    "id": "dt_2020",
+                    "name": "2020",
+                    "value": "2020"
+                }
+            },
+            {
+                "id": "Q104605950",
+                "name": "Meditation Mix",
+                "year": {
+                    "id": "dt_2020",
+                    "name": "2020",
+                    "value": "2020"
+                }
+            },
+            {
+                "id": "Q104605949",
+                "name": "Got to Get You Into My Life",
+                "year": {
+                    "id": "dt_2020",
+                    "name": "2020",
+                    "value": "2020"
+                }
+            },
+            {
+                "id": "Q104605948",
+                "name": "The Beatles for Kids - Morning, Afternoon & Night",
+                "year": {
+                    "id": "dt_2020",
+                    "name": "2020",
+                    "value": "2020"
+                }
+            },
+            {
+                "id": "Q104605934",
+                "name": "Spooky Songs",
+                "year": {
+                    "id": "dt_2020",
+                    "name": "2020",
+                    "value": "2020"
+                }
+            },
+            {
+                "id": "Q109236599",
+                "name": "Abbey Road: 50th Anniversary Edition",
+                "year": {
+                    "id": "dt_2019",
+                    "name": "2019",
+                    "value": "2019"
+                }
+            },
+            {
+                "id": "Q111684715",
+                "name": "Here Comes The Sun (2019 Mix)",
+                "year": {
+                    "id": "dt_2019",
+                    "name": "2019",
+                    "value": "2019"
+                }
+            },
+            {
+                "id": "Q109236601",
+                "name": "The Beatles: 50th Anniversary Edition",
+                "year": {
+                    "id": "dt_2018",
+                    "name": "2018",
+                    "value": "2018"
+                }
+            },
+            {
+                "id": "Q96405417",
+                "name": "Sgt. Pepper's Lonely Hearts Club Band: 50th Anniversary Edition",
+                "year": {
+                    "id": "dt_2017",
+                    "name": "2017",
+                    "value": "2017"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q15862",
+        "name": "Queen",
+        "members": [
+            {
+                "id": "Q15869",
+                "name": "Freddie Mercury"
+            },
+            {
+                "id": "Q15873",
+                "name": "Brian May"
+            },
+            {
+                "id": "Q192103",
+                "name": "John Deacon"
+            },
+            {
+                "id": "Q15880",
+                "name": "Roger Taylor"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1970",
+            "name": "1970",
+            "value": "1970"
+        },
+        "genres": [
+            {
+                "id": "Q83270",
+                "name": "hard rock"
+            },
+            {
+                "id": "Q217467",
+                "name": "art rock"
+            },
+            {
+                "id": "Q49451",
+                "name": "progressive rock"
+            },
+            {
+                "id": "Q76092",
+                "name": "glam rock"
+            },
+            {
+                "id": "Q1133657",
+                "name": "traditional heavy metal"
+            },
+            {
+                "id": "Q11399",
+                "name": "rock music"
+            },
+            {
+                "id": "Q484641",
+                "name": "pop rock"
+            },
+            {
+                "id": "Q38848",
+                "name": "heavy metal music"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q114641732",
+                "name": "Face It Alone",
+                "year": {
+                    "id": "dt_2022",
+                    "name": "2022",
+                    "value": "2022"
+                }
+            },
+            {
+                "id": "Q107126406",
+                "name": "Santa Monica 1976 3rd Night",
+                "year": {
+                    "id": "dt_2019",
+                    "name": "2019",
+                    "value": "2019"
+                }
+            },
+            {
+                "id": "Q57655507",
+                "name": "Bohemian Rhapsody: The Original Soundtrack",
+                "year": {
+                    "id": "dt_2018",
+                    "name": "2018",
+                    "value": "2018"
+                }
+            },
+            {
+                "id": "Q27115596",
+                "name": "On Air",
+                "year": {
+                    "id": "dt_2016",
+                    "name": "2016",
+                    "value": "2016"
+                }
+            },
+            {
+                "id": "Q25575642",
+                "name": "The Studio Collection",
+                "year": {
+                    "id": "dt_2015",
+                    "name": "2015",
+                    "value": "2015"
+                }
+            },
+            {
+                "id": "Q21152181",
+                "name": "A Night at the Odeon - Hammersmith 1975",
+                "year": {
+                    "id": "dt_2015",
+                    "name": "2015",
+                    "value": "2015"
+                }
+            },
+            {
+                "id": "Q16999425",
+                "name": "Queen Forever",
+                "year": {
+                    "id": "dt_2014",
+                    "name": "2014",
+                    "value": "2014"
+                }
+            },
+            {
+                "id": "Q3486024",
+                "name": "Live at the Rainbow '74",
+                "year": {
+                    "id": "dt_2014",
+                    "name": "2014",
+                    "value": "2014"
+                }
+            },
+            {
+                "id": "Q19522647",
+                "name": "Let Me in Your Heart Again",
+                "year": {
+                    "id": "dt_2014",
+                    "name": "2014",
+                    "value": "2014"
+                }
+            },
+            {
+                "id": "Q13583311",
+                "name": "Icon",
+                "year": {
+                    "id": "dt_2013",
+                    "name": "2013",
+                    "value": "2013"
+                }
+            },
+            {
+                "id": "Q558808",
+                "name": "Hungarian Rhapsody: Queen Live in Budapest",
+                "year": {
+                    "id": "dt_2012",
+                    "name": "2012",
+                    "value": "2012"
+                }
+            },
+            {
+                "id": "Q903337",
+                "name": "Deep Cuts, Volume 3",
+                "year": {
+                    "id": "dt_2011",
+                    "name": "2011",
+                    "value": "2011"
+                }
+            },
+            {
+                "id": "Q107199175",
+                "name": "Champions Shoot \u2013 Live London '77",
+                "year": {
+                    "id": "dt_2011",
+                    "name": "2011",
+                    "value": "2011"
+                }
+            },
+            {
+                "id": "Q605941",
+                "name": "Deep Cuts, Volume 2",
+                "year": {
+                    "id": "dt_2011",
+                    "name": "2011",
+                    "value": "2011"
+                }
+            },
+            {
+                "id": "Q221847",
+                "name": "Deep Cuts, Volume 1",
+                "year": {
+                    "id": "dt_2011",
+                    "name": "2011",
+                    "value": "2011"
+                }
+            },
+            {
+                "id": "Q844785",
+                "name": "Queen Singles Collection 4",
+                "year": {
+                    "id": "dt_2010",
+                    "name": "2010",
+                    "value": "2010"
+                }
+            },
+            {
+                "id": "Q1038880",
+                "name": "The Singles Collection Volume 3",
+                "year": {
+                    "id": "dt_2010",
+                    "name": "2010",
+                    "value": "2010"
+                }
+            },
+            {
+                "id": "Q19911863",
+                "name": "Bohemian Rhapsody",
+                "year": {
+                    "id": "dt_2009",
+                    "name": "2009",
+                    "value": "2009"
+                }
+            },
+            {
+                "id": "Q332439",
+                "name": "Absolute Greatest",
+                "year": {
+                    "id": "dt_2009",
+                    "name": "2009",
+                    "value": "2009"
+                }
+            },
+            {
+                "id": "Q909400",
+                "name": "The Singles Collection Volume 2",
+                "year": {
+                    "id": "dt_2009",
+                    "name": "2009",
+                    "value": "2009"
+                }
+            },
+            {
+                "id": "Q107141937",
+                "name": "Action This Night \u2013 Live Boston '82",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q948765",
+                "name": "The Singles Collection Volume 1",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q18016585",
+                "name": "We Believe",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q1289523",
+                "name": "Small",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q744503",
+                "name": "The Cosmos Rocks",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q19057",
+        "name": "The Specials",
+        "members": [
+            {
+                "id": "Q1365476",
+                "name": "Jerry Dammers"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1977",
+            "name": "1977",
+            "value": "1977"
+        },
+        "genres": [
+            {
+                "id": "Q187760",
+                "name": "new wave"
+            },
+            {
+                "id": "Q54365",
+                "name": "ska"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q111939374",
+                "name": "Protest Songs 1924\u20132012",
+                "year": {
+                    "id": "dt_2021",
+                    "name": "2021",
+                    "value": "2021"
+                }
+            },
+            {
+                "id": "Q62245338",
+                "name": "Encore",
+                "year": {
+                    "id": "dt_2019",
+                    "name": "2019",
+                    "value": "2019"
+                }
+            },
+            {
+                "id": "Q7717304",
+                "name": "The Best of The Specials",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q5601295",
+                "name": "The Specials - Greatest Hits",
+                "year": {
+                    "id": "dt_2006",
+                    "name": "2006",
+                    "value": "2006"
+                }
+            },
+            {
+                "id": "Q7717305",
+                "name": "The Best of The Specials & Fun Boy Three",
+                "year": {
+                    "id": "dt_2006",
+                    "name": "2006",
+                    "value": "2006"
+                }
+            },
+            {
+                "id": "Q4787248",
+                "name": "Archive",
+                "year": {
+                    "id": "dt_2001",
+                    "name": "2001",
+                    "value": "2001"
+                }
+            },
+            {
+                "id": "Q5162393",
+                "name": "Conquering Ruler",
+                "year": {
+                    "id": "dt_2001",
+                    "name": "2001",
+                    "value": "2001"
+                }
+            },
+            {
+                "id": "Q7535445",
+                "name": "Skinhead Girl",
+                "year": {
+                    "id": "dt_2000",
+                    "name": "2000",
+                    "value": "2000"
+                }
+            },
+            {
+                "id": "Q7611192",
+                "name": "Stereo-Typical: A's, B's and Rarities",
+                "year": {
+                    "id": "dt_2000",
+                    "name": "2000",
+                    "value": "2000"
+                }
+            },
+            {
+                "id": "Q4897027",
+                "name": "Best of the Specials",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q4929637",
+                "name": "Blue Plate Specials Live",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q5557190",
+                "name": "Ghost Town Live",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q5616362",
+                "name": "Guilty 'til Proved Innocent!",
+                "year": {
+                    "id": "dt_1998",
+                    "name": "1998",
+                    "value": "1998"
+                }
+            },
+            {
+                "id": "Q7812159",
+                "name": "Today's Specials",
+                "year": {
+                    "id": "dt_1996",
+                    "name": "1996",
+                    "value": "1996"
+                }
+            },
+            {
+                "id": "Q5179047",
+                "name": "Coventry Automatics",
+                "year": {
+                    "id": "dt_1994",
+                    "name": "1994",
+                    "value": "1994"
+                }
+            },
+            {
+                "id": "Q11762066",
+                "name": "Live: Too Much Too Young",
+                "year": {
+                    "id": "dt_1992",
+                    "name": "1992",
+                    "value": "1992"
+                }
+            },
+            {
+                "id": "Q11762109",
+                "name": "Live At The Moonlight Club",
+                "year": {
+                    "id": "dt_1992",
+                    "name": "1992",
+                    "value": "1992"
+                }
+            },
+            {
+                "id": "Q7764474",
+                "name": "The Singles Collection",
+                "year": {
+                    "id": "dt_1991",
+                    "name": "1991",
+                    "value": "1991"
+                }
+            },
+            {
+                "id": "Q23367163",
+                "name": "Q23367163",
+                "year": {
+                    "id": "dt_1983",
+                    "name": "1983",
+                    "value": "1983"
+                }
+            },
+            {
+                "id": "Q15123297",
+                "name": "Ghost Town",
+                "year": {
+                    "id": "dt_1981",
+                    "name": "1981",
+                    "value": "1981"
+                }
+            },
+            {
+                "id": "Q1091069",
+                "name": "More Specials",
+                "year": {
+                    "id": "dt_1980",
+                    "name": "1980",
+                    "value": "1980"
+                }
+            },
+            {
+                "id": "Q3993359",
+                "name": "Too Much Too Young: The Gold Collection",
+                "year": {
+                    "id": "dt_1980",
+                    "name": "1980",
+                    "value": "1980"
+                }
+            },
+            {
+                "id": "Q7765734",
+                "name": "The Special AKA Live!",
+                "year": {
+                    "id": "dt_1980",
+                    "name": "1980",
+                    "value": "1980"
+                }
+            },
+            {
+                "id": "Q9208100",
+                "name": "Do Nothing",
+                "year": {
+                    "id": "dt_1980",
+                    "name": "1980",
+                    "value": "1980"
+                }
+            },
+            {
+                "id": "Q9304239",
+                "name": "Rat Race",
+                "year": {
+                    "id": "dt_1980",
+                    "name": "1980",
+                    "value": "1980"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q203736",
+        "name": "Cream",
+        "members": [],
+        "est_year": {
+            "id": "dt_1966",
+            "name": "1966",
+            "value": "1966"
+        },
+        "genres": [
+            {
+                "id": "Q83270",
+                "name": "hard rock"
+            },
+            {
+                "id": "Q193355",
+                "name": "blues rock"
+            },
+            {
+                "id": "Q236932",
+                "name": "acid rock"
+            },
+            {
+                "id": "Q206159",
+                "name": "psychedelic rock"
+            },
+            {
+                "id": "Q11399",
+                "name": "rock music"
+            },
+            {
+                "id": "Q38848",
+                "name": "heavy metal music"
+            },
+            {
+                "id": "Q106581777",
+                "name": "jam band music"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q1768333",
+                "name": "Cream Gold",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q2356707",
+                "name": "Royal Albert Hall London May 2-3-5-6",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q16160249",
+                "name": "20th Century Masters \u2013 The Millennium Collection: The Best of Cream",
+                "year": {
+                    "id": "dt_2000",
+                    "name": "2000",
+                    "value": "2000"
+                }
+            },
+            {
+                "id": "Q1768328",
+                "name": "Those Were the Days",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q1768320",
+                "name": "The Very Best of Cream",
+                "year": {
+                    "id": "dt_1995",
+                    "name": "1995",
+                    "value": "1995"
+                }
+            },
+            {
+                "id": "Q1758927",
+                "name": "Strange Brew: The Very Best of Cream",
+                "year": {
+                    "id": "dt_1983",
+                    "name": "1983",
+                    "value": "1983"
+                }
+            },
+            {
+                "id": "Q1768313",
+                "name": "Heavy Cream",
+                "year": {
+                    "id": "dt_1972",
+                    "name": "1972",
+                    "value": "1972"
+                }
+            },
+            {
+                "id": "Q1459027",
+                "name": "Live Cream Volume II",
+                "year": {
+                    "id": "dt_1972",
+                    "name": "1972",
+                    "value": "1972"
+                }
+            },
+            {
+                "id": "Q1458999",
+                "name": "Live Cream",
+                "year": {
+                    "id": "dt_1970",
+                    "name": "1970",
+                    "value": "1970"
+                }
+            },
+            {
+                "id": "Q3286422",
+                "name": "Best of Cream",
+                "year": {
+                    "id": "dt_1969",
+                    "name": "1969",
+                    "value": "1969"
+                }
+            },
+            {
+                "id": "Q110549764",
+                "name": "Badge / What a Bringdown",
+                "year": {
+                    "id": "dt_1969",
+                    "name": "1969",
+                    "value": "1969"
+                }
+            },
+            {
+                "id": "Q746251",
+                "name": "Goodbye",
+                "year": {
+                    "id": "dt_1969",
+                    "name": "1969",
+                    "value": "1969"
+                }
+            },
+            {
+                "id": "Q19787058",
+                "name": "Doing That Scrapyard Thing",
+                "year": {
+                    "id": "dt_1969",
+                    "name": "1969",
+                    "value": "1969"
+                }
+            },
+            {
+                "id": "Q1779188",
+                "name": "Badge",
+                "year": {
+                    "id": "dt_1969",
+                    "name": "1969",
+                    "value": "1969"
+                }
+            },
+            {
+                "id": "Q3122019",
+                "name": "White Room",
+                "year": {
+                    "id": "dt_1968",
+                    "name": "1968",
+                    "value": "1968"
+                }
+            },
+            {
+                "id": "Q51556674",
+                "name": "Politician",
+                "year": {
+                    "id": "dt_1968",
+                    "name": "1968",
+                    "value": "1968"
+                }
+            },
+            {
+                "id": "Q902413",
+                "name": "Wheels of Fire",
+                "year": {
+                    "id": "dt_1968",
+                    "name": "1968",
+                    "value": "1968"
+                }
+            },
+            {
+                "id": "Q3460306",
+                "name": "SWLABR",
+                "year": {
+                    "id": "dt_1968",
+                    "name": "1968",
+                    "value": "1968"
+                }
+            },
+            {
+                "id": "Q4778278",
+                "name": "Anyone for Tennis",
+                "year": {
+                    "id": "dt_1968",
+                    "name": "1968",
+                    "value": "1968"
+                }
+            },
+            {
+                "id": "Q2314748",
+                "name": "Sunshine of Your Love",
+                "year": {
+                    "id": "dt_1968",
+                    "name": "1968",
+                    "value": "1968"
+                }
+            },
+            {
+                "id": "Q10264483",
+                "name": "Dazed and Cream",
+                "year": {
+                    "id": "dt_1968",
+                    "name": "1968",
+                    "value": "1968"
+                }
+            },
+            {
+                "id": "Q12058856",
+                "name": "The Savage Seven",
+                "year": {
+                    "id": "dt_1968",
+                    "name": "1968",
+                    "value": "1968"
+                }
+            },
+            {
+                "id": "Q269211",
+                "name": "Disraeli Gears",
+                "year": {
+                    "id": "dt_1967",
+                    "name": "1967",
+                    "value": "1967"
+                }
+            },
+            {
+                "id": "Q7977102",
+                "name": "We're Going Wrong",
+                "year": {
+                    "id": "dt_1967",
+                    "name": "1967",
+                    "value": "1967"
+                }
+            },
+            {
+                "id": "Q55818234",
+                "name": "World of Pain",
+                "year": {
+                    "id": "dt_1967",
+                    "name": "1967",
+                    "value": "1967"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q212168",
+        "name": "The Shadows",
+        "members": [
+            {
+                "id": "Q365478",
+                "name": "Hank Marvin"
+            },
+            {
+                "id": "Q709928",
+                "name": "Jet Harris"
+            },
+            {
+                "id": "Q712368",
+                "name": "Tony Meehan"
+            },
+            {
+                "id": "Q991880",
+                "name": "Bruce Welch"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1958",
+            "name": "1958",
+            "value": "1958"
+        },
+        "genres": [
+            {
+                "id": "Q11399",
+                "name": "rock music"
+            },
+            {
+                "id": "Q4390945",
+                "name": "rautalanka"
+            },
+            {
+                "id": "Q37073",
+                "name": "pop music"
+            },
+            {
+                "id": "Q7749",
+                "name": "rock and roll"
+            },
+            {
+                "id": "Q1650296",
+                "name": "instrumental rock"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q16998066",
+                "name": "Moonlight Shadows",
+                "year": {
+                    "id": "dt_1986",
+                    "name": "1986",
+                    "value": "1986"
+                }
+            },
+            {
+                "id": "Q5614034",
+                "name": "Guardian Angel",
+                "year": {
+                    "id": "dt_1984",
+                    "name": "1984",
+                    "value": "1984"
+                }
+            },
+            {
+                "id": "Q17041437",
+                "name": "XXV",
+                "year": {
+                    "id": "dt_1983",
+                    "name": "1983",
+                    "value": "1983"
+                }
+            },
+            {
+                "id": "Q27818341",
+                "name": "Life in the Jungle",
+                "year": {
+                    "id": "dt_1982",
+                    "name": "1982",
+                    "value": "1982"
+                }
+            },
+            {
+                "id": "Q5872576",
+                "name": "Hits Right Up Your Street",
+                "year": {
+                    "id": "dt_1981",
+                    "name": "1981",
+                    "value": "1981"
+                }
+            },
+            {
+                "id": "Q5071852",
+                "name": "Change of Address",
+                "year": {
+                    "id": "dt_1980",
+                    "name": "1980",
+                    "value": "1980"
+                }
+            },
+            {
+                "id": "Q7623986",
+                "name": "String of Hits",
+                "year": {
+                    "id": "dt_1979",
+                    "name": "1979",
+                    "value": "1979"
+                }
+            },
+            {
+                "id": "Q652536",
+                "name": "Cavatina",
+                "year": {
+                    "id": "dt_1978",
+                    "name": "1978",
+                    "value": "1978"
+                }
+            },
+            {
+                "id": "Q7687741",
+                "name": "Tasty",
+                "year": {
+                    "id": "dt_1977",
+                    "name": "1977",
+                    "value": "1977"
+                }
+            },
+            {
+                "id": "Q3365183",
+                "name": "Let Me Be the One",
+                "year": {
+                    "id": "dt_1975",
+                    "name": "1975",
+                    "value": "1975"
+                }
+            },
+            {
+                "id": "Q17021563",
+                "name": "Specs Appeal",
+                "year": {
+                    "id": "dt_1975",
+                    "name": "1975",
+                    "value": "1975"
+                }
+            },
+            {
+                "id": "Q7355358",
+                "name": "Rockin' with Curly Leads",
+                "year": {
+                    "id": "dt_1973",
+                    "name": "1973",
+                    "value": "1973"
+                }
+            },
+            {
+                "id": "Q7460338",
+                "name": "Shades of Rock",
+                "year": {
+                    "id": "dt_1970",
+                    "name": "1970",
+                    "value": "1970"
+                }
+            },
+            {
+                "id": "Q5505422",
+                "name": "From Hank, Bruce, Brian and John",
+                "year": {
+                    "id": "dt_1967",
+                    "name": "1967",
+                    "value": "1967"
+                }
+            },
+            {
+                "id": "Q16995376",
+                "name": "Jigsaw",
+                "year": {
+                    "id": "dt_1967",
+                    "name": "1967",
+                    "value": "1967"
+                }
+            },
+            {
+                "id": "Q7460566",
+                "name": "Shadow Music",
+                "year": {
+                    "id": "dt_1966",
+                    "name": "1966",
+                    "value": "1966"
+                }
+            },
+            {
+                "id": "Q7773479",
+                "name": "The War Lord",
+                "year": {
+                    "id": "dt_1965",
+                    "name": "1965",
+                    "value": "1965"
+                }
+            },
+            {
+                "id": "Q2300292",
+                "name": "Genie With The Light Brown Lamp",
+                "year": {
+                    "id": "dt_1965",
+                    "name": "1965",
+                    "value": "1965"
+                }
+            },
+            {
+                "id": "Q7765459",
+                "name": "The Sound of The Shadows",
+                "year": {
+                    "id": "dt_1965",
+                    "name": "1965",
+                    "value": "1965"
+                }
+            },
+            {
+                "id": "Q5215338",
+                "name": "Dance with The Shadows",
+                "year": {
+                    "id": "dt_1964",
+                    "name": "1964",
+                    "value": "1964"
+                }
+            },
+            {
+                "id": "Q7760868",
+                "name": "The Rise and Fall of Flingle Bunt",
+                "year": {
+                    "id": "dt_1964",
+                    "name": "1964",
+                    "value": "1964"
+                }
+            },
+            {
+                "id": "Q7781219",
+                "name": "Theme for Young Lovers",
+                "year": {
+                    "id": "dt_1964",
+                    "name": "1964",
+                    "value": "1964"
+                }
+            },
+            {
+                "id": "Q115091695",
+                "name": "Apache / Quatermasster's Stores",
+                "year": {
+                    "id": "dt_1963",
+                    "name": "1963",
+                    "value": "1963"
+                }
+            },
+            {
+                "id": "Q4816694",
+                "name": "Atlantis",
+                "year": {
+                    "id": "dt_1963",
+                    "name": "1963",
+                    "value": "1963"
+                }
+            },
+            {
+                "id": "Q5465739",
+                "name": "Foot Tapper",
+                "year": {
+                    "id": "dt_1963",
+                    "name": "1963",
+                    "value": "1963"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q214990",
+        "name": "New Order",
+        "members": [
+            {
+                "id": "Q431244",
+                "name": "Peter Hook"
+            },
+            {
+                "id": "Q741390",
+                "name": "Phil Cunningham"
+            },
+            {
+                "id": "Q539897",
+                "name": "Stephen Morris"
+            },
+            {
+                "id": "Q271981",
+                "name": "Gillian Gilbert"
+            },
+            {
+                "id": "Q438885",
+                "name": "Bernard Sumner"
+            },
+            {
+                "id": "Q16213904",
+                "name": "Tom Chapman"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1980",
+            "name": "1980",
+            "value": "1980"
+        },
+        "genres": [
+            {
+                "id": "Q851213",
+                "name": "electronic dance music"
+            },
+            {
+                "id": "Q1298934",
+                "name": "synth-pop"
+            },
+            {
+                "id": "Q2187392",
+                "name": "alternative dance"
+            },
+            {
+                "id": "Q598929",
+                "name": "post-punk"
+            },
+            {
+                "id": "Q187760",
+                "name": "new wave"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q26302223",
+                "name": "Complete Music",
+                "year": {
+                    "id": "dt_2016",
+                    "name": "2016",
+                    "value": "2016"
+                }
+            },
+            {
+                "id": "Q28451334",
+                "name": "Tutti Frutti",
+                "year": {
+                    "id": "dt_2015",
+                    "name": "2015",
+                    "value": "2015"
+                }
+            },
+            {
+                "id": "Q20992438",
+                "name": "Plastic",
+                "year": {
+                    "id": "dt_2015",
+                    "name": "2015",
+                    "value": "2015"
+                }
+            },
+            {
+                "id": "Q20899552",
+                "name": "Restless",
+                "year": {
+                    "id": "dt_2015",
+                    "name": "2015",
+                    "value": "2015"
+                }
+            },
+            {
+                "id": "Q20644777",
+                "name": "Music Complete",
+                "year": {
+                    "id": "dt_2015",
+                    "name": "2015",
+                    "value": "2015"
+                }
+            },
+            {
+                "id": "Q25413327",
+                "name": "Restless",
+                "year": {
+                    "id": "dt_2015",
+                    "name": "2015",
+                    "value": "2015"
+                }
+            },
+            {
+                "id": "Q969233",
+                "name": "Lost Sirens",
+                "year": {
+                    "id": "dt_2013",
+                    "name": "2013",
+                    "value": "2013"
+                }
+            },
+            {
+                "id": "Q16996689",
+                "name": "Live at Bestival 2012",
+                "year": {
+                    "id": "dt_2013",
+                    "name": "2013",
+                    "value": "2013"
+                }
+            },
+            {
+                "id": "Q1953918",
+                "name": "Total: From Joy Division to New Order",
+                "year": {
+                    "id": "dt_2011",
+                    "name": "2011",
+                    "value": "2011"
+                }
+            },
+            {
+                "id": "Q6656843",
+                "name": "Live at the London Troxy",
+                "year": {
+                    "id": "dt_2011",
+                    "name": "2011",
+                    "value": "2011"
+                }
+            },
+            {
+                "id": "Q2512461",
+                "name": "Live in Glasgow",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q5975320",
+                "name": "iTunes Originals: New Order",
+                "year": {
+                    "id": "dt_2007",
+                    "name": "2007",
+                    "value": "2007"
+                }
+            },
+            {
+                "id": "Q4548963",
+                "name": "12x12\"",
+                "year": {
+                    "id": "dt_2006",
+                    "name": "2006",
+                    "value": "2006"
+                }
+            },
+            {
+                "id": "Q18418240",
+                "name": "Guilt Is a Useless Emotion",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q16966718",
+                "name": "Waiting for the Sirens' Call",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q6189185",
+                "name": "Jetstream",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q2996889",
+                "name": "Waiting for the Sirens' Call",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q6435815",
+                "name": "Krafty",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q3273452",
+                "name": "Singles",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q4656008",
+                "name": "A Collection",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q110464647",
+                "name": "New Order Acid House Mixes By 808 State (1988)",
+                "year": {
+                    "id": "dt_2004",
+                    "name": "2004",
+                    "value": "2004"
+                }
+            },
+            {
+                "id": "Q6010789",
+                "name": "In Session",
+                "year": {
+                    "id": "dt_2004",
+                    "name": "2004",
+                    "value": "2004"
+                }
+            },
+            {
+                "id": "Q7756791",
+                "name": "The Peter Saville Show Soundtrack",
+                "year": {
+                    "id": "dt_2003",
+                    "name": "2003",
+                    "value": "2003"
+                }
+            },
+            {
+                "id": "Q2028455",
+                "name": "New Order 511",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q2306",
+        "name": "Pink Floyd",
+        "members": [
+            {
+                "id": "Q192936",
+                "name": "Q192936"
+            },
+            {
+                "id": "Q190251",
+                "name": "Richard Wright"
+            },
+            {
+                "id": "Q178517",
+                "name": "David Gilmour"
+            },
+            {
+                "id": "Q173061",
+                "name": "Syd Barrett"
+            },
+            {
+                "id": "Q180861",
+                "name": "Roger Waters"
+            },
+            {
+                "id": "Q345373",
+                "name": "Bob Klose"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1964",
+            "name": "1964",
+            "value": "1964"
+        },
+        "genres": [
+            {
+                "id": "Q217467",
+                "name": "art rock"
+            },
+            {
+                "id": "Q3408028",
+                "name": "proto-prog"
+            },
+            {
+                "id": "Q1641839",
+                "name": "experimental rock"
+            },
+            {
+                "id": "Q206159",
+                "name": "psychedelic rock"
+            },
+            {
+                "id": "Q193355",
+                "name": "blues rock"
+            },
+            {
+                "id": "Q236913",
+                "name": "space rock"
+            },
+            {
+                "id": "Q49451",
+                "name": "progressive rock"
+            },
+            {
+                "id": "Q236932",
+                "name": "acid rock"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q111524136",
+                "name": "Hey, Hey, Rise Up!",
+                "year": {
+                    "id": "dt_2022",
+                    "name": "2022",
+                    "value": "2022"
+                }
+            },
+            {
+                "id": "Q109041523",
+                "name": "Live at Knebworth 1990",
+                "year": {
+                    "id": "dt_2021",
+                    "name": "2021",
+                    "value": "2021"
+                }
+            },
+            {
+                "id": "Q903541",
+                "name": "Delicate Sound of Thunder",
+                "year": {
+                    "id": "dt_2020",
+                    "name": "2020",
+                    "value": "2020"
+                }
+            },
+            {
+                "id": "Q86668124",
+                "name": "The Later Years",
+                "year": {
+                    "id": "dt_2019",
+                    "name": "2019",
+                    "value": "2019"
+                }
+            },
+            {
+                "id": "Q68417470",
+                "name": "The Later Years 1987\u20132019",
+                "year": {
+                    "id": "dt_2019",
+                    "name": "2019",
+                    "value": "2019"
+                }
+            },
+            {
+                "id": "Q7438894",
+                "name": "Scream Thy Last Scream",
+                "year": {
+                    "id": "dt_2016",
+                    "name": "2016",
+                    "value": "2016"
+                }
+            },
+            {
+                "id": "Q42568236",
+                "name": "Cre/ation - The Early Years 1967-1972",
+                "year": {
+                    "id": "dt_2016",
+                    "name": "2016",
+                    "value": "2016"
+                }
+            },
+            {
+                "id": "Q26158149",
+                "name": "The Early Years 1965\u20141972",
+                "year": {
+                    "id": "dt_2016",
+                    "name": "2016",
+                    "value": "2016"
+                }
+            },
+            {
+                "id": "Q21595691",
+                "name": "1965 \u2013 Their First Recordings",
+                "year": {
+                    "id": "dt_2015",
+                    "name": "2015",
+                    "value": "2015"
+                }
+            },
+            {
+                "id": "Q17319538",
+                "name": "The Endless River",
+                "year": {
+                    "id": "dt_2014",
+                    "name": "2014",
+                    "value": "2014"
+                }
+            },
+            {
+                "id": "Q114101213",
+                "name": "Louder Than Words",
+                "year": {
+                    "id": "dt_2014",
+                    "name": "2014",
+                    "value": "2014"
+                }
+            },
+            {
+                "id": "Q18228613",
+                "name": "Louder than Words",
+                "year": {
+                    "id": "dt_2014",
+                    "name": "2014",
+                    "value": "2014"
+                }
+            },
+            {
+                "id": "Q21160011",
+                "name": "Another Movie in Long Island",
+                "year": {
+                    "id": "dt_2013",
+                    "name": "2013",
+                    "value": "2013"
+                }
+            },
+            {
+                "id": "Q1940195",
+                "name": "The Best of Pink Floyd: A Foot in the Door",
+                "year": {
+                    "id": "dt_2011",
+                    "name": "2011",
+                    "value": "2011"
+                }
+            },
+            {
+                "id": "Q2487075",
+                "name": "Discovery",
+                "year": {
+                    "id": "dt_2011",
+                    "name": "2011",
+                    "value": "2011"
+                }
+            },
+            {
+                "id": "Q10720326",
+                "name": "Wish You Were Here - Experience Edition",
+                "year": {
+                    "id": "dt_2011",
+                    "name": "2011",
+                    "value": "2011"
+                }
+            },
+            {
+                "id": "Q749074",
+                "name": "Oh, by the Way",
+                "year": {
+                    "id": "dt_2007",
+                    "name": "2007",
+                    "value": "2007"
+                }
+            },
+            {
+                "id": "Q3407523",
+                "name": "Proper Education",
+                "year": {
+                    "id": "dt_2007",
+                    "name": "2007",
+                    "value": "2007"
+                }
+            },
+            {
+                "id": "Q113088738",
+                "name": "Breathe / Wish You Were Here",
+                "year": {
+                    "id": "dt_2006",
+                    "name": "2006",
+                    "value": "2006"
+                }
+            },
+            {
+                "id": "Q835727",
+                "name": "Echoes: The Best of Pink Floyd",
+                "year": {
+                    "id": "dt_2001",
+                    "name": "2001",
+                    "value": "2001"
+                }
+            },
+            {
+                "id": "Q645280",
+                "name": "Is There Anybody Out There? The Wall Live 1980\u201381",
+                "year": {
+                    "id": "dt_2000",
+                    "name": "2000",
+                    "value": "2000"
+                }
+            },
+            {
+                "id": "Q2088705",
+                "name": "1967: The First Three Singles",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q3551900",
+                "name": "Unknown Song",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q2998905",
+                "name": "Country Song",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q382890",
+        "name": "Oasis",
+        "members": [
+            {
+                "id": "Q5547925",
+                "name": "Paul McGuigan"
+            },
+            {
+                "id": "Q522988",
+                "name": "Alan White"
+            },
+            {
+                "id": "Q932502",
+                "name": "Chris Sharrock"
+            },
+            {
+                "id": "Q345348",
+                "name": "Gem Archer"
+            },
+            {
+                "id": "Q2455570",
+                "name": "Tony McCarroll"
+            },
+            {
+                "id": "Q193459",
+                "name": "Noel Gallagher"
+            },
+            {
+                "id": "Q1195785",
+                "name": "Paul Arthurs"
+            },
+            {
+                "id": "Q7436842",
+                "name": "Scott McLeod"
+            },
+            {
+                "id": "Q216708",
+                "name": "Liam Gallagher"
+            },
+            {
+                "id": "Q353388",
+                "name": "Andy Bell"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1991",
+            "name": "1991",
+            "value": "1991"
+        },
+        "genres": [
+            {
+                "id": "Q11366",
+                "name": "alternative rock"
+            },
+            {
+                "id": "Q183504",
+                "name": "indie rock"
+            },
+            {
+                "id": "Q703778",
+                "name": "neo-psychedelia"
+            },
+            {
+                "id": "Q189045",
+                "name": "Britpop"
+            },
+            {
+                "id": "Q11399",
+                "name": "rock music"
+            },
+            {
+                "id": "Q842324",
+                "name": "indie pop"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q109671654",
+                "name": "Knebworth 1996",
+                "year": {
+                    "id": "dt_2021",
+                    "name": "2021",
+                    "value": "2021"
+                }
+            },
+            {
+                "id": "Q3782550",
+                "name": "Half the World Away",
+                "year": {
+                    "id": "dt_2015",
+                    "name": "2015",
+                    "value": "2015"
+                }
+            },
+            {
+                "id": "Q682720",
+                "name": "Time Flies... 1994\u20132009",
+                "year": {
+                    "id": "dt_2010",
+                    "name": "2010",
+                    "value": "2010"
+                }
+            },
+            {
+                "id": "Q2922990",
+                "name": "Boy with the Blues",
+                "year": {
+                    "id": "dt_2009",
+                    "name": "2009",
+                    "value": "2009"
+                }
+            },
+            {
+                "id": "Q2318738",
+                "name": "Falling Down",
+                "year": {
+                    "id": "dt_2009",
+                    "name": "2009",
+                    "value": "2009"
+                }
+            },
+            {
+                "id": "Q1358677",
+                "name": "I'm Outta Time",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q1129617",
+                "name": "Dig Out Your Soul",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q2567028",
+                "name": "The Shock of the Lightning",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q2294668",
+                "name": "Lord Don't Slow Me Down",
+                "year": {
+                    "id": "dt_2007",
+                    "name": "2007",
+                    "value": "2007"
+                }
+            },
+            {
+                "id": "Q2577045",
+                "name": "Lord Don't Slow Me Down",
+                "year": {
+                    "id": "dt_2007",
+                    "name": "2007",
+                    "value": "2007"
+                }
+            },
+            {
+                "id": "Q1142498",
+                "name": "Stop the Clocks",
+                "year": {
+                    "id": "dt_2006",
+                    "name": "2006",
+                    "value": "2006"
+                }
+            },
+            {
+                "id": "Q1619659",
+                "name": "Stop the Clocks",
+                "year": {
+                    "id": "dt_2006",
+                    "name": "2006",
+                    "value": "2006"
+                }
+            },
+            {
+                "id": "Q2563080",
+                "name": "Let There Be Love",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q2592286",
+                "name": "The Importance of Being Idle",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q1056754",
+                "name": "Don't Believe the Truth",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q2175488",
+                "name": "Lyla",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q56402085",
+                "name": "Turn Up the Sun",
+                "year": {
+                    "id": "dt_2004",
+                    "name": "2004",
+                    "value": "2004"
+                }
+            },
+            {
+                "id": "Q1353121",
+                "name": "Songbird",
+                "year": {
+                    "id": "dt_2003",
+                    "name": "2003",
+                    "value": "2003"
+                }
+            },
+            {
+                "id": "Q72920676",
+                "name": "Little by Little / She Is Love",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q72922844",
+                "name": "Little by Little / She Is Love",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q72919550",
+                "name": "Little by Little / She Is Love",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q1063052",
+                "name": "Heathen Chemistry",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q2721583",
+                "name": "Stop Crying Your Heart Out",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q2721682",
+                "name": "The Hindu Times",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q1637586",
+                "name": "She Is Love",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q50037",
+        "name": "Culture Club",
+        "members": [
+            {
+                "id": "Q312883",
+                "name": "Boy George"
+            },
+            {
+                "id": "Q350029",
+                "name": "Roy Hay"
+            },
+            {
+                "id": "Q5612943",
+                "name": "Mikey Craig"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1981",
+            "name": "1981",
+            "value": "1981"
+        },
+        "genres": [
+            {
+                "id": "Q37073",
+                "name": "pop music"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q59816939",
+                "name": "Life (Boy George and Culture Club album)",
+                "year": {
+                    "id": "dt_2018",
+                    "name": "2018",
+                    "value": "2018"
+                }
+            },
+            {
+                "id": "Q3699355",
+                "name": "Culture Club 2005 - Singles and Remixes",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q3699357",
+                "name": "Culture Club - Greatest Hits",
+                "year": {
+                    "id": "dt_2005",
+                    "name": "2005",
+                    "value": "2005"
+                }
+            },
+            {
+                "id": "Q3699354",
+                "name": "Culture Club",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q1136459",
+                "name": "Don't Mind If I Do",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q3985881",
+                "name": "The Best of Culture Club",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q3776241",
+                "name": "Greatest Moments \u2013 VH1 Storytellers Live",
+                "year": {
+                    "id": "dt_1998",
+                    "name": "1998",
+                    "value": "1998"
+                }
+            },
+            {
+                "id": "Q5977715",
+                "name": "I Just Wanna Be Loved",
+                "year": {
+                    "id": "dt_1998",
+                    "name": "1998",
+                    "value": "1998"
+                }
+            },
+            {
+                "id": "Q3281257",
+                "name": "At Worst... The Best of Boy George and Culture Club",
+                "year": {
+                    "id": "dt_1993",
+                    "name": "1993",
+                    "value": "1993"
+                }
+            },
+            {
+                "id": "Q3699356",
+                "name": "Culture Club Collect \u2013 12\" Mixes Plus/Remix Collection",
+                "year": {
+                    "id": "dt_1991",
+                    "name": "1991",
+                    "value": "1991"
+                }
+            },
+            {
+                "id": "Q3990542",
+                "name": "This Time \u2013 The First Four Years",
+                "year": {
+                    "id": "dt_1987",
+                    "name": "1987",
+                    "value": "1987"
+                }
+            },
+            {
+                "id": "Q6926485",
+                "name": "Move Away",
+                "year": {
+                    "id": "dt_1986",
+                    "name": "1986",
+                    "value": "1986"
+                }
+            },
+            {
+                "id": "Q2275239",
+                "name": "From Luxury to Heartache",
+                "year": {
+                    "id": "dt_1986",
+                    "name": "1986",
+                    "value": "1986"
+                }
+            },
+            {
+                "id": "Q5291643",
+                "name": "Don't Go Down That Street",
+                "year": {
+                    "id": "dt_1985",
+                    "name": "1985",
+                    "value": "1985"
+                }
+            },
+            {
+                "id": "Q1325887",
+                "name": "Electric Dreams",
+                "year": {
+                    "id": "dt_1984",
+                    "name": "1984",
+                    "value": "1984"
+                }
+            },
+            {
+                "id": "Q580800",
+                "name": "Waking Up with the House on Fire",
+                "year": {
+                    "id": "dt_1984",
+                    "name": "1984",
+                    "value": "1984"
+                }
+            },
+            {
+                "id": "Q107338315",
+                "name": "The War Song / La Cancion de Guerra",
+                "year": {
+                    "id": "dt_1984",
+                    "name": "1984",
+                    "value": "1984"
+                }
+            },
+            {
+                "id": "Q107338244",
+                "name": "The War Song",
+                "year": {
+                    "id": "dt_1984",
+                    "name": "1984",
+                    "value": "1984"
+                }
+            },
+            {
+                "id": "Q104184828",
+                "name": "It's a Miracle / Love Twist",
+                "year": {
+                    "id": "dt_1984",
+                    "name": "1984",
+                    "value": "1984"
+                }
+            },
+            {
+                "id": "Q6877052",
+                "name": "Miss Me Blind",
+                "year": {
+                    "id": "dt_1984",
+                    "name": "1984",
+                    "value": "1984"
+                }
+            },
+            {
+                "id": "Q104184797",
+                "name": "It's a Miracle",
+                "year": {
+                    "id": "dt_1984",
+                    "name": "1984",
+                    "value": "1984"
+                }
+            },
+            {
+                "id": "Q7773485",
+                "name": "The War Song",
+                "year": {
+                    "id": "dt_1984",
+                    "name": "1984",
+                    "value": "1984"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q55641",
+        "name": "Spice Girls",
+        "members": [
+            {
+                "id": "Q151830",
+                "name": "Melanie C"
+            },
+            {
+                "id": "Q236005",
+                "name": "Melanie Brown"
+            },
+            {
+                "id": "Q219878",
+                "name": "Emma Bunton"
+            },
+            {
+                "id": "Q19810",
+                "name": "Victoria Beckham"
+            },
+            {
+                "id": "Q19845",
+                "name": "Geri Halliwell"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1994",
+            "name": "1994",
+            "value": "1994"
+        },
+        "genres": [
+            {
+                "id": "Q37073",
+                "name": "pop music"
+            },
+            {
+                "id": "Q517415",
+                "name": "Europop"
+            },
+            {
+                "id": "Q211756",
+                "name": "dance-pop"
+            },
+            {
+                "id": "Q641066",
+                "name": "girl group"
+            },
+            {
+                "id": "Q739138",
+                "name": "teen pop"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q1422534",
+                "name": "Greatest Hits",
+                "year": {
+                    "id": "dt_2007",
+                    "name": "2007",
+                    "value": "2007"
+                }
+            },
+            {
+                "id": "Q959998",
+                "name": "Headlines (Friendship Never Ends)",
+                "year": {
+                    "id": "dt_2007",
+                    "name": "2007",
+                    "value": "2007"
+                }
+            },
+            {
+                "id": "Q2917955",
+                "name": "Tell Me Why",
+                "year": {
+                    "id": "dt_2001",
+                    "name": "2001",
+                    "value": "2001"
+                }
+            },
+            {
+                "id": "Q4115710",
+                "name": "Weekend Love",
+                "year": {
+                    "id": "dt_2001",
+                    "name": "2001",
+                    "value": "2001"
+                }
+            },
+            {
+                "id": "Q20049159",
+                "name": "Oxygen",
+                "year": {
+                    "id": "dt_2000",
+                    "name": "2000",
+                    "value": "2000"
+                }
+            },
+            {
+                "id": "Q1165773",
+                "name": "Forever",
+                "year": {
+                    "id": "dt_2000",
+                    "name": "2000",
+                    "value": "2000"
+                }
+            },
+            {
+                "id": "Q509048",
+                "name": "Holler",
+                "year": {
+                    "id": "dt_2000",
+                    "name": "2000",
+                    "value": "2000"
+                }
+            },
+            {
+                "id": "Q2698645",
+                "name": "Let Love Lead the Way",
+                "year": {
+                    "id": "dt_2000",
+                    "name": "2000",
+                    "value": "2000"
+                }
+            },
+            {
+                "id": "Q2615973",
+                "name": "Goodbye",
+                "year": {
+                    "id": "dt_1998",
+                    "name": "1998",
+                    "value": "1998"
+                }
+            },
+            {
+                "id": "Q6656511",
+                "name": "Live at Wembley Stadium",
+                "year": {
+                    "id": "dt_1998",
+                    "name": "1998",
+                    "value": "1998"
+                }
+            },
+            {
+                "id": "Q1575913",
+                "name": "Viva Forever",
+                "year": {
+                    "id": "dt_1998",
+                    "name": "1998",
+                    "value": "1998"
+                }
+            },
+            {
+                "id": "Q4544774",
+                "name": "(How Does It Feel to Be) On Top of the World?",
+                "year": {
+                    "id": "dt_1998",
+                    "name": "1998",
+                    "value": "1998"
+                }
+            },
+            {
+                "id": "Q2857841",
+                "name": "Stop",
+                "year": {
+                    "id": "dt_1998",
+                    "name": "1998",
+                    "value": "1998"
+                }
+            },
+            {
+                "id": "Q10381386",
+                "name": "The Five Queens in Birmingham",
+                "year": {
+                    "id": "dt_1998",
+                    "name": "1998",
+                    "value": "1998"
+                }
+            },
+            {
+                "id": "Q12270854",
+                "name": "Q12270854",
+                "year": {
+                    "id": "dt_1998",
+                    "name": "1998",
+                    "value": "1998"
+                }
+            },
+            {
+                "id": "Q733309",
+                "name": "Too Much",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q934969",
+                "name": "Spiceworld",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q2471051",
+                "name": "Spice Up Your Life",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q7092732",
+                "name": "One Hour of Girl Power",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q1916334",
+                "name": "Mama",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q2471038",
+                "name": "Who Do You Think You Are",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q10332774",
+                "name": "Move Over",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q4115696",
+                "name": "Never Give Up on the Good Times",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q7608037",
+                "name": "Step to Me",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q1198149",
+                "name": "2 Become 1",
+                "year": {
+                    "id": "dt_1996",
+                    "name": "1996",
+                    "value": "1996"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q68981254",
+        "name": "The High Numbers",
+        "members": [
+            {
+                "id": "Q211696",
+                "name": "Keith Moon"
+            },
+            {
+                "id": "Q215835",
+                "name": "John Entwistle"
+            },
+            {
+                "id": "Q311672",
+                "name": "Roger Daltrey"
+            },
+            {
+                "id": "Q26933",
+                "name": "Pete Townshend"
+            }
+        ],
+        "est_year": null,
+        "genres": [],
+        "albums": [
+            {
+                "id": "Q9097852",
+                "name": "Zoot Suit / I'm the Face",
+                "year": {
+                    "id": "dt_1964",
+                    "name": "1964",
+                    "value": "1964"
+                }
+            },
+            {
+                "id": "Q68982766",
+                "name": "Zoot Suit / I'm the Face",
+                "year": {
+                    "id": "dt_1964",
+                    "name": "1964",
+                    "value": "1964"
+                }
+            },
+            {
+                "id": "Q68986423",
+                "name": "Zoot Suit",
+                "year": {
+                    "id": "dt_1964",
+                    "name": "1964",
+                    "value": "1964"
+                }
+            },
+            {
+                "id": "Q68989204",
+                "name": "I'm the Face",
+                "year": null
+            },
+            {
+                "id": "Q68987950",
+                "name": "I'm the Face",
+                "year": null
+            },
+            {
+                "id": "Q68988515",
+                "name": "Zoot Suit",
+                "year": null
+            }
+        ]
+    },
+    {
+        "id": "Q806231",
+        "name": "Band Aid",
+        "members": [],
+        "est_year": {
+            "id": "dt_1984",
+            "name": "1984",
+            "value": "1984"
+        },
+        "genres": [
+            {
+                "id": "Q1443316",
+                "name": "Christmas music"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q131190821",
+                "name": "Do They Know It's Christmas? / Feed the World",
+                "year": {
+                    "id": "dt_1984",
+                    "name": "1984",
+                    "value": "1984"
+                }
+            },
+            {
+                "id": "Q1188494",
+                "name": "Do They Know It's Christmas?",
+                "year": null
+            },
+            {
+                "id": "Q105836343",
+                "name": "Do They Know It's Christmas?",
+                "year": null
+            }
+        ]
+    },
+    {
+        "id": "Q82545",
+        "name": "Sex Pistols",
+        "members": [
+            {
+                "id": "Q47878",
+                "name": "Sid Vicious"
+            },
+            {
+                "id": "Q106662",
+                "name": "John Lydon"
+            },
+            {
+                "id": "Q9263248",
+                "name": "Frank Carter"
+            },
+            {
+                "id": "Q51319",
+                "name": "Glen Matlock"
+            },
+            {
+                "id": "Q347986",
+                "name": "Steve Jones"
+            },
+            {
+                "id": "Q363260",
+                "name": "Paul Cook"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1975",
+            "name": "1975",
+            "value": "1975"
+        },
+        "genres": [
+            {
+                "id": "Q3071",
+                "name": "punk rock"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q1130674",
+                "name": "Live & Filthy",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q516127",
+                "name": "Agents of Anarchy",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q7782551",
+                "name": "There'll Always Be an England",
+                "year": {
+                    "id": "dt_2008",
+                    "name": "2008",
+                    "value": "2008"
+                }
+            },
+            {
+                "id": "Q745676",
+                "name": "Raw and Live",
+                "year": {
+                    "id": "dt_2004",
+                    "name": "2004",
+                    "value": "2004"
+                }
+            },
+            {
+                "id": "Q825296",
+                "name": "Jubilee",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q851496",
+                "name": "Sex Pistols Boxed Set",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q5399955",
+                "name": "Silver Jubilee",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q6144780",
+                "name": "The Sex Pistols Collection",
+                "year": {
+                    "id": "dt_2001",
+                    "name": "2001",
+                    "value": "2001"
+                }
+            },
+            {
+                "id": "Q48832796",
+                "name": "The Filth and the Fury",
+                "year": {
+                    "id": "dt_2000",
+                    "name": "2000",
+                    "value": "2000"
+                }
+            },
+            {
+                "id": "Q5977349",
+                "name": "Live At The Longhorn",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q6085720",
+                "name": "Pretty Vacant: The Best of 1976",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q7296848",
+                "name": "Raw",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q922606",
+                "name": "Live at Winterland 1978",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q851477",
+                "name": "Filthy Lucre Live",
+                "year": {
+                    "id": "dt_1996",
+                    "name": "1996",
+                    "value": "1996"
+                }
+            },
+            {
+                "id": "Q977394",
+                "name": "Spunk/This Is Crap",
+                "year": {
+                    "id": "dt_1996",
+                    "name": "1996",
+                    "value": "1996"
+                }
+            },
+            {
+                "id": "Q7733875",
+                "name": "The Filthy Lucre Tour: Live in Japan",
+                "year": {
+                    "id": "dt_1996",
+                    "name": "1996",
+                    "value": "1996"
+                }
+            },
+            {
+                "id": "Q3875136",
+                "name": "Never Mind the Bollocks/Spunk",
+                "year": {
+                    "id": "dt_1996",
+                    "name": "1996",
+                    "value": "1996"
+                }
+            },
+            {
+                "id": "Q2879597",
+                "name": "Early Daze: The Studio Collection",
+                "year": {
+                    "id": "dt_1993",
+                    "name": "1993",
+                    "value": "1993"
+                }
+            },
+            {
+                "id": "Q5326635",
+                "name": "Early Daze",
+                "year": {
+                    "id": "dt_1993",
+                    "name": "1993",
+                    "value": "1993"
+                }
+            },
+            {
+                "id": "Q917915",
+                "name": "Kiss This",
+                "year": {
+                    "id": "dt_1992",
+                    "name": "1992",
+                    "value": "1992"
+                }
+            },
+            {
+                "id": "Q4043066",
+                "name": "Live at Chelmsford Top Security Prison",
+                "year": {
+                    "id": "dt_1990",
+                    "name": "1990",
+                    "value": "1990"
+                }
+            },
+            {
+                "id": "Q4053004",
+                "name": "We Have Cum for Your Children",
+                "year": {
+                    "id": "dt_1988",
+                    "name": "1988",
+                    "value": "1988"
+                }
+            },
+            {
+                "id": "Q6122764",
+                "name": "Search & Destroy: Live",
+                "year": {
+                    "id": "dt_1986",
+                    "name": "1986",
+                    "value": "1986"
+                }
+            },
+            {
+                "id": "Q262114",
+                "name": "Anarchy in the U.K: Live at the 76 Club",
+                "year": {
+                    "id": "dt_1985",
+                    "name": "1985",
+                    "value": "1985"
+                }
+            },
+            {
+                "id": "Q4051222",
+                "name": "The Original Pistols Live",
+                "year": {
+                    "id": "dt_1985",
+                    "name": "1985",
+                    "value": "1985"
+                }
+            }
+        ]
+    },
+    {
+        "id": "Q826255",
+        "name": "Suede",
+        "members": [
+            {
+                "id": "Q6030281",
+                "name": "Mat Osman"
+            },
+            {
+                "id": "Q2627352",
+                "name": "Neil Codling"
+            },
+            {
+                "id": "Q520062",
+                "name": "Bernard Butler"
+            }
+        ],
+        "est_year": {
+            "id": "dt_1989",
+            "name": "1989",
+            "value": "1989"
+        },
+        "genres": [
+            {
+                "id": "Q11366",
+                "name": "alternative rock"
+            }
+        ],
+        "albums": [
+            {
+                "id": "Q135100085",
+                "name": "Antidepressants",
+                "year": {
+                    "id": "dt_2025",
+                    "name": "2025",
+                    "value": "2025"
+                }
+            },
+            {
+                "id": "Q112939329",
+                "name": "Autofiction",
+                "year": {
+                    "id": "dt_2022",
+                    "name": "2022",
+                    "value": "2022"
+                }
+            },
+            {
+                "id": "Q52386048",
+                "name": "The Blue Hour",
+                "year": {
+                    "id": "dt_2018",
+                    "name": "2018",
+                    "value": "2018"
+                }
+            },
+            {
+                "id": "Q21152157",
+                "name": "Night Thoughts",
+                "year": {
+                    "id": "dt_2016",
+                    "name": "2016",
+                    "value": "2016"
+                }
+            },
+            {
+                "id": "Q3607999",
+                "name": "Bloodsports",
+                "year": {
+                    "id": "dt_2013",
+                    "name": "2013",
+                    "value": "2013"
+                }
+            },
+            {
+                "id": "Q6092046",
+                "name": "It Starts and Ends with You",
+                "year": {
+                    "id": "dt_2013",
+                    "name": "2013",
+                    "value": "2013"
+                }
+            },
+            {
+                "id": "Q431587",
+                "name": "The Best of Suede",
+                "year": {
+                    "id": "dt_2010",
+                    "name": "2010",
+                    "value": "2010"
+                }
+            },
+            {
+                "id": "Q632613",
+                "name": "See You in the Next Life",
+                "year": {
+                    "id": "dt_2004",
+                    "name": "2004",
+                    "value": "2004"
+                }
+            },
+            {
+                "id": "Q1058714",
+                "name": "Singles",
+                "year": {
+                    "id": "dt_2003",
+                    "name": "2003",
+                    "value": "2003"
+                }
+            },
+            {
+                "id": "Q4034557",
+                "name": "Attitude / Golden Gun",
+                "year": {
+                    "id": "dt_2003",
+                    "name": "2003",
+                    "value": "2003"
+                }
+            },
+            {
+                "id": "Q1190603",
+                "name": "A New Morning",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q1182516",
+                "name": "Obsessions",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q4047271",
+                "name": "Positivity",
+                "year": {
+                    "id": "dt_2002",
+                    "name": "2002",
+                    "value": "2002"
+                }
+            },
+            {
+                "id": "Q5028878",
+                "name": "Can't Get Enough",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q4038397",
+                "name": "Everything Will Flow",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q7491894",
+                "name": "She's in Fashion",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q5357778",
+                "name": "Electricity",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q1140819",
+                "name": "Head Music",
+                "year": {
+                    "id": "dt_1999",
+                    "name": "1999",
+                    "value": "1999"
+                }
+            },
+            {
+                "id": "Q1060443",
+                "name": "Sci-Fi Lullabies",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q5449178",
+                "name": "Filmstar",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q63718573",
+                "name": "Saturday Night",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q6506090",
+                "name": "Lazy",
+                "year": {
+                    "id": "dt_1997",
+                    "name": "1997",
+                    "value": "1997"
+                }
+            },
+            {
+                "id": "Q2085988",
+                "name": "Beautiful Ones",
+                "year": {
+                    "id": "dt_1996",
+                    "name": "1996",
+                    "value": "1996"
+                }
+            },
+            {
+                "id": "Q1376349",
+                "name": "Coming Up",
+                "year": {
+                    "id": "dt_1996",
+                    "name": "1996",
+                    "value": "1996"
+                }
+            },
+            {
+                "id": "Q7835707",
+                "name": "Trash",
+                "year": {
+                    "id": "dt_1996",
+                    "name": "1996",
+                    "value": "1996"
+                }
+            }
+        ]
+    }
+]
