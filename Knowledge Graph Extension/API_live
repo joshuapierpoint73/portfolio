@@ -1,0 +1,138 @@
+from flask import Flask, jsonify, render_template
+from flask_cors import CORS
+import os
+
+from graph_to_json import GraphJsonReader
+
+# ---------------- CONFIG ---------------- #
+
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(CURRENT_DIR)
+
+TTL_PATH = os.path.join(PROJECT_ROOT, "assets", "graphs", "bme_knowledge_graph.ttl")
+
+app = Flask(
+    __name__,
+    template_folder=os.path.normpath(os.path.join(PROJECT_ROOT, "extension", "templates"))
+)
+CORS(app)
+
+reader = GraphJsonReader(TTL_PATH, auto_reload=True)
+
+
+# ---------------- ROOTS ---------------- #
+
+ROOT_NODES = [
+    {"id": "MusicGroup", "name": "Music Groups", "type": "Root"},
+    {"id": "Person", "name": "Artists", "type": "Root"},
+    {"id": "Genre", "name": "Genres", "type": "Root"},
+    {"id": "Artefact", "name": "Artefacts", "type": "Root"},
+]
+
+
+# ---------------- ROUTES ---------------- #
+
+@app.route("/")
+def home():
+    return jsonify({
+        "message": "BME KG API",
+        "source": "TTL knowledge graph",
+        "ui": "/graph",
+        "routes": [
+            "/api/status",
+            "/api/roots",
+            "/api/root/<type>",
+            "/api/genres",
+            "/api/expandgenre/<id>",
+            "/api/header/<id>",
+            "/api/body/<id>",
+            "/api/reload",
+        ]
+    })
+
+
+@app.route("/graph")
+def graph():
+    return render_template("index.html")
+
+
+# ---------------- STATUS API ---------------- #
+
+@app.route("/api/status")
+def get_status():
+    return jsonify(reader.status())
+
+
+@app.route("/api/reload")
+def reload_graph():
+    reader.reload()
+    return jsonify({
+        "message": "Knowledge graph reloaded",
+        **reader.status(),
+    })
+
+
+# ---------------- ROOT API ---------------- #
+
+@app.route("/api/roots")
+def get_roots():
+    return jsonify(ROOT_NODES)
+
+
+@app.route("/api/root/<root_type>")
+def get_root_entities(root_type):
+    results = reader.get_root_entities(root_type)
+
+    if results is None:
+        return jsonify({"error": "Root type not found"}), 404
+
+    return jsonify(results)
+
+
+# ---------------- GENRE API ---------------- #
+
+@app.route("/api/genres")
+def get_genres():
+    results = [
+        {"id": genre["id"], "name": genre["name"]}
+        for genre in reader.build_genre_index().values()
+    ]
+    return jsonify(results)
+
+
+@app.route("/api/expandgenre/<genre_id>")
+def expand_genre(genre_id):
+    groups = reader.expand_genre(genre_id)
+
+    if groups is None:
+        return jsonify({"error": "Genre not found"}), 404
+
+    return jsonify(groups)
+
+
+# ---------------- ENTITY API ---------------- #
+
+@app.route("/api/header/<entity_id>")
+def get_header(entity_id):
+    header = reader.get_header(entity_id)
+
+    if not header:
+        return jsonify({"error": "Header not found"}), 404
+
+    return jsonify(header)
+
+
+@app.route("/api/body/<entity_id>")
+def get_body(entity_id):
+    body = reader.get_body(entity_id)
+
+    if not body:
+        return jsonify({"error": "Body not found"}), 404
+
+    return jsonify(body)
+
+
+# ---------------- MAIN ---------------- #
+
+if __name__ == "__main__":
+    app.run(debug=True)
