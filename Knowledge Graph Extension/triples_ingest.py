@@ -1,11 +1,3 @@
-"""
-
-This module is concerned with adding the triples to the KG. Especially converting a WikiData representation to schema.org as it is the format used in the BME KG
-
-TODO List:
-    [1] Loop over a type (e.g instrument, artist) in add_entity etc to parameterise the types of entities we want to add to the KG. (Line 86)
-
-"""
 import os
 from rdflib import Graph, Namespace, URIRef, Literal, RDF
 from find_links import KGValidator, KGLinker
