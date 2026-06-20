@@ -1,0 +1,152 @@
+[
+    {
+        "id": "Q11036",
+        "name": "The Rolling Stones",
+        "est_year": {
+            "id": "dt_1962",
+            "name": "1962",
+            "value": "1962"
+        }
+    },
+    {
+        "id": "Q112148502",
+        "name": "Acker Bilk and His Paramount Jazz Band",
+        "est_year": null
+    },
+    {
+        "id": "Q121557449",
+        "name": "Ken Colyer's Jazzmen",
+        "est_year": null
+    },
+    {
+        "id": "Q125603",
+        "name": "The Clash",
+        "est_year": {
+            "id": "dt_1976",
+            "name": "1976",
+            "value": "1976"
+        }
+    },
+    {
+        "id": "Q1299",
+        "name": "The Beatles",
+        "est_year": {
+            "id": "dt_1960",
+            "name": "1960",
+            "value": "1960"
+        }
+    },
+    {
+        "id": "Q15862",
+        "name": "Queen",
+        "est_year": {
+            "id": "dt_1970",
+            "name": "1970",
+            "value": "1970"
+        }
+    },
+    {
+        "id": "Q19057",
+        "name": "The Specials",
+        "est_year": {
+            "id": "dt_1977",
+            "name": "1977",
+            "value": "1977"
+        }
+    },
+    {
+        "id": "Q203736",
+        "name": "Cream",
+        "est_year": {
+            "id": "dt_1966",
+            "name": "1966",
+            "value": "1966"
+        }
+    },
+    {
+        "id": "Q212168",
+        "name": "The Shadows",
+        "est_year": {
+            "id": "dt_1958",
+            "name": "1958",
+            "value": "1958"
+        }
+    },
+    {
+        "id": "Q214990",
+        "name": "New Order",
+        "est_year": {
+            "id": "dt_1980",
+            "name": "1980",
+            "value": "1980"
+        }
+    },
+    {
+        "id": "Q2306",
+        "name": "Pink Floyd",
+        "est_year": {
+            "id": "dt_1964",
+            "name": "1964",
+            "value": "1964"
+        }
+    },
+    {
+        "id": "Q382890",
+        "name": "Oasis",
+        "est_year": {
+            "id": "dt_1991",
+            "name": "1991",
+            "value": "1991"
+        }
+    },
+    {
+        "id": "Q50037",
+        "name": "Culture Club",
+        "est_year": {
+            "id": "dt_1981",
+            "name": "1981",
+            "value": "1981"
+        }
+    },
+    {
+        "id": "Q55641",
+        "name": "Spice Girls",
+        "est_year": {
+            "id": "dt_1994",
+            "name": "1994",
+            "value": "1994"
+        }
+    },
+    {
+        "id": "Q68981254",
+        "name": "The High Numbers",
+        "est_year": null
+    },
+    {
+        "id": "Q806231",
+        "name": "Band Aid",
+        "est_year": {
+            "id": "dt_1984",
+            "name": "1984",
+            "value": "1984"
+        }
+    },
+    {
+        "id": "Q82545",
+        "name": "Sex Pistols",
+        "est_year": {
+            "id": "dt_1975",
+            "name": "1975",
+            "value": "1975"
+        }
+    },
+    {
+        "id": "Q826255",
+        "name": "Suede",
+        "est_year": {
+            "id": "dt_1989",
+            "name": "1989",
+            "value": "1989"
+        }
+    }
+]
